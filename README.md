@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **HTML, CSS, Java & JavaScript**
 
 - 📫 How to reach me **yaseenmb252003@gmail.com**
-- 
 -💬 Feel free to ask me about: Anything related to my expertise
 
 -👯 Looking to collaborate on: Innovative and impactful project
