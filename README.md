@@ -9,7 +9,7 @@
 -👯 Looking to collaborate on: Innovative and impactful project
 
 
-<h1 align="center">protofile section</h1>
+<h1 align="center">Portfolio Section</h1>
 
 Skills
 
