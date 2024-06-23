@@ -5,6 +5,39 @@
 
 - 📫 How to reach me **yaseenmb252003@gmail.com**
 - 
+-💬 Feel free to ask me about: Anything related to my expertise
+
+-👯 Looking to collaborate on: Innovative and impactful project
+
+
+
+Education:
+
+-Future Elementary School
+-AL Gabas Secondary School
+-University Of Khartoum, School of Mathematics (IT) (1 term)
+-Bachelor of Computing in Software Engineering, Universiti Teknologi Malaysia (Current)
+
+
+
+Skills
+-Languages: Python, JavaScript, HTML, CSS
+-Frameworks: React, Node.js, Django
+-Tools: Git, Docker, VSCode, Photoshop
+-Databases: MySQL, MongoDB
+
+
+
+Simple Skills
+
+-Basic HTML/CSS: Building simple web pages with basic styling.
+-Python Scripting: Writing small scripts for automation.
+-Markdown: Creating formatted text for documentation.
+-Git Basics: Using Git for version control.
+-JavaScript: Writing basic JavaScript functions.
+-Photoshop: Basic image editing and graphic design.
+
+
 <p align="left">
 </p>
 
