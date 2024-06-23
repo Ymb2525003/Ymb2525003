@@ -11,6 +11,25 @@
 
 <h1 align="center">protofile section</h1>
 
+Skills
+
+Languages: Python, JavaScript, HTML, CSS
+Frameworks: React, Node.js, Django
+Tools: Git, Docker, VSCode, Photoshop
+Databases: MySQL, MongoDB
+
+
+ Simple Skills
+
+
+Basic HTML/CSS: Building simple web pages with basic styling.
+Python Scripting: Writing small scripts for automation.
+Markdown: Creating formatted text for documentation.
+Git Basics: Using Git for version control.
+JavaScript: Writing basic JavaScript functions.
+Photoshop: Basic image editing and graphic design.
+
+
 <p align="left">
 </p>
 
